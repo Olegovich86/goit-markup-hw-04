@@ -546,6 +546,11 @@ button {
   border-radius: 50%;
 }
 
+.footer-two-link:hover,
+.footer-two-link:focus {
+  background-color: #404bbf;
+}
+
 .footer-two-svg {
   fill: #f4f4fd;
 }
