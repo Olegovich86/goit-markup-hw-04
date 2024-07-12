@@ -418,7 +418,6 @@ button {
 }
 
 .portfolio-menu-img {
-  background: #fff;
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -427,7 +426,6 @@ button {
   position: absolute;
   top: 0px;
   left: 0px;
-  padding: 40px 32px 32px 40px;
   background-color: #4d5ae5;
   font-size: 16px;
   line-height: 1.5;
